@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm <a href="traviscao.github.io">Yuji Cao</a></h1>
 <p>A master student at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ).</p>
 
-- 🌱 I’m currently working on **(decentralized) power grid control with reinforcement learning and data-driven decision making techniques.**
+- 🌱 I’m currently working on **safe power grid control with reinforcement learning and data-driven decision making techniques.**
 
 - 👨‍💻 All of my projects and codes are available at [github](https://github.com/TravisCao/).
 
