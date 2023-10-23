@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently working on **safe power grid control with reinforcement learning and data-driven decision-making techniques.**
 
-- 👨‍💻 All of my projects and codes are available at [github](https://github.com/TravisCao/).
-
 - 💬 I'm interested in **data-driven decision-making and reinforcement learning.** I'm also interested in trustworthy (explainable) machine learning.
 
 - 💪 **I love bodybuilding and enjoy the feeling of lifting heavy weights.** I have lost 33kg (103kg ➡️ 70kg). It has been a transformative experience for my life. I enjoy setting challenging goals and pushing boundaries.
