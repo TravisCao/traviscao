@@ -1,4 +1,6 @@
-<h2>Hi 👋, I'm <a href="traviscao.github.io">Yuji Cao</a></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=30&duration=2500&pause=500&center=true&vCenter=true&width=300&height=30&lines=Hi+there+%F0%9F%91%8B;I'm+Yuji+Cao+%F0%9F%98%B8" alt="Typing SVG" /></a>
+</p>
 <p>A master student at the Chinese University of Hong Kong, Shenzhen (CUHK-SZ).</p>
 
 - 🌱 I’m currently working on **safe power grid control with reinforcement learning and data-driven decision-making techniques.**
