@@ -3,9 +3,7 @@
 </p>
 <p>A Ph.D student at the Chinese University of Hong Kong (CUHK).</p>
 
-- 🌱 I’m currently working on **safe power grid control with reinforcement learning and data-driven decision-making techniques.**
-
-- 💬 I'm interested in **data-driven decision-making and reinforcement learning.** I'm also interested in trustworthy (explainable) machine learning.
+- 🌱 I’m currently working on **trustworthy machine learning and data-driven decision-making techniques.**
 
 - ⚡️ I like listening to podcasts while taking a walk. I'm a **Vimer** and I use Vim keybindings in all editors 🤖.
 
